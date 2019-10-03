@@ -12,7 +12,7 @@
 				jersey.config.server.provider.packages
 			</param-name>
 			<param-value>
-				com.zensar.webservice.hello
+				com.zensar.webservice.user;
 			</param-value>
 		</init-param>
 		<load-on-startup>
